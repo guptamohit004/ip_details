@@ -77,5 +77,4 @@ deno test --allow-net
 
 ## 📄 License
 
-MIT © Mohit Gupta
-
+The `ip_details` is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
