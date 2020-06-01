@@ -1,6 +1,6 @@
 # 🌐 Get All information of an IP address.
 
-Get your public IP address in Deno.
+Get your public IP address Details in Deno.
 
 [![Test CI](https://github.com/denorg/get-ip/workflows/Test%20CI/badge.svg)](https://github.com/denorg/get-ip/actions)
 
