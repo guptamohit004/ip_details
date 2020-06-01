@@ -2,7 +2,7 @@
 
 Get your public IP address Details in Deno.
 
-[![Test CI](https://github.com/denorg/get-ip/workflows/Test%20CI/badge.svg)](https://github.com/denorg/get-ip/actions)
+[![Test CI](https://github.com/denorg/get-ip/workflows/Test%20CI/badge.svg)]()
 
 ## ⭐ Getting started
 
